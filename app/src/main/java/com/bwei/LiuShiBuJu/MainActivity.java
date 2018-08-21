@@ -16,7 +16,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     String[] name={"手机","电脑","玩具","手机","电脑","苹果手机", "笔记本电脑", "电饭煲 ", "腊肉",
-            "特产", "剃须刀", "宝宝", "康佳", "特产", "剃须刀", "充电宝", "康佳"};
+            "特产", "剃须刀", "充电宝", "康佳", "特产", "剃须刀", "充电宝", "康佳"};
 
     private ImageView mSearchBack;
     private ImageView mRelationSearch;
