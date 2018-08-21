@@ -5,7 +5,7 @@ import android.util.AttributeSet;
 import android.view.ViewGroup;
 
 /**
- * Created by 房国伟 on 2018/8/21.
+ * Created by  on 2018/8/21.
  */
 public class CustomView extends ViewGroup{
 
